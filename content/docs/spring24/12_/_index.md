@@ -15,7 +15,7 @@ introduction
 ### Data Quantity
 
 <p align="center">
-    <img src="Figure 2.png" width="900"> 
+    <img src="Figure 2.png" width="600"> 
 </p>
 
 <p style="text-align:center; font-style: italic;">
