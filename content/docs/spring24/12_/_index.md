@@ -14,4 +14,13 @@ introduction
 ## Data
 ### Data Quantity
 
+<p align="center">
+    <img src="Figure 2.png" width="300"> 
+</p>
+
+<p style="text-align:center; font-style: italic;">
+Figure 2. Data Quantity
+</p>
+
+
 ### Data Quality
